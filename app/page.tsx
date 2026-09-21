@@ -30,7 +30,7 @@ export default function Home() {
                 Получить консультацию <ArrowRight size={16} />
               </a>
               <a
-                href="#услуги"
+                href="/Bezopasnost-biznesa-pod-klyuch.pdf"
                 className="text-sm font-semibold text-[#46627f] transition hover:text-[#2474d4]"
               >
                 Наши услуги
