@@ -19,8 +19,8 @@ export default function Home() {
               <span className="text-[#2474d4]">Защищаем главное.</span>
             </h1>
             <p className="mt-7 max-w-lg text-base leading-7 text-[#60738d] sm:text-lg">
-              Установим систему видеонаблюдения под ключ — для дома, бизнеса и
-              производства.
+              Установим систему видеонаблюдения под ключ.
+              Звоните +998 90 273 23 30
             </p>
             <div className="mt-9 flex flex-wrap items-center gap-4">
               <a
