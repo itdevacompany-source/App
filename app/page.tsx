@@ -50,7 +50,7 @@ export default function Home() {
       </section>
       <section id="о-компании" className="sr-only" aria-label="О компании" />
       <section id="услуги" className="sr-only" aria-label="Наши услуги" />
-      <section id="контакты" className="sr-only" aria-label="+99890 273 23 30" />
+      <section id="контакты" className="sr-only" aria-label="Контакты" />
     </main>
   );
 }
