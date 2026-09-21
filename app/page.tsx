@@ -11,7 +11,7 @@ export default function Home() {
         <div className="relative z-0 mx-auto flex max-w-7xl flex-col px-5 pb-20 pt-24 sm:px-8 lg:flex-row lg:items-center lg:gap-20 lg:px-10 lg:pb-28 lg:pt-32">
           <div className="max-w-2xl">
             <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-[#cfe1f5] bg-white/75 px-3 py-2 text-xs font-semibold text-[#3979b9] shadow-sm">
-              <ShieldCheck size={15} /> Безопасность, которой доверяют
+              <ShieldCheck size={15} /> Безопасность, которой доверяют!
             </div>
             <h1 className="text-5xl font-bold leading-[1.05] tracking-[-0.055em] text-[#112c4f] sm:text-6xl lg:text-[76px]">
               Видим всё.
